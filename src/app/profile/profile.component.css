@@ -1,0 +1,13 @@
+.profileImg {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  margin-left: 650px;
+}
+
+.title {
+  color: rgb(43, 40, 40);
+  font-size: 18px;
+}
