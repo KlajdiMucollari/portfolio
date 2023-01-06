@@ -8,6 +8,7 @@
 }
 
 .title {
-  color: rgb(43, 40, 40);
+  color: #ff4000;
   font-size: 18px;
+  opacity: 70%;
 }
